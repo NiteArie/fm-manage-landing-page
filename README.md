@@ -1,5 +1,23 @@
 # fm-manage-landing-page
 
+## Design
+
+> Desktop Design
+
+![Desktop Design](./design/desktop-design.jpg)
+
+> Mobile Design
+
+![Mobile Design](./design/mobile-design.jpg)
+
+> Mobile Navigation
+
+![Mobile Navigation](./design/mobile-navigation.jpg)
+
+> Testimonal Sliders
+
+![Testimonal Sliders](./design/testimonials-slider.jpg)
+
 ## General
 
 My challenge is to build out this landing page and get it looking as close to the design as possible.
